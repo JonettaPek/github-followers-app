@@ -43,6 +43,7 @@ class GFAlertViewController: UIViewController {
         configureActionButton()
         configureMessageLabel()
     }
+    
     private func configureContainerView() {
         view.addSubview(containerView)
         
